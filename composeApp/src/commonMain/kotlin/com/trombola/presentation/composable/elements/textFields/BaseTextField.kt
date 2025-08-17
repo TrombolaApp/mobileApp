@@ -93,7 +93,8 @@ fun BaseTextField(
                 unfocusedTextColor = Color.White,
                 focusedTextColor = Color.White,
                 unfocusedIndicatorColor = Color.Transparent,
-                focusedIndicatorColor = Color.Transparent
+                focusedIndicatorColor = Color.Transparent,
+                cursorColor = Color.White
             ),
 
             modifier = Modifier
