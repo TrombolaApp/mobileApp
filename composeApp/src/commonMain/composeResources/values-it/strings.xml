@@ -3,4 +3,6 @@
     <string name="username_text_field">Username</string>
     <string name="password_text_field">Password</string>
     <string name="login_button_text">Accedi</string>
+    <string name="login_selector_guest">Gioca come ospite</string>
+    <string name="login_selector_account">Accedi</string>
 </resources>

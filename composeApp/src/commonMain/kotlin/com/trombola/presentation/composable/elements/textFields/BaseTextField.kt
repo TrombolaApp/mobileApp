@@ -88,8 +88,8 @@ fun BaseTextField(
                 }
             },
             colors = TextFieldDefaults.colors(
-                unfocusedContainerColor = Color.Red,
-                focusedContainerColor = Color.Red,
+                unfocusedContainerColor = Color.Transparent,
+                focusedContainerColor = Color.Transparent,
                 unfocusedTextColor = Color.White,
                 focusedTextColor = Color.White,
                 unfocusedIndicatorColor = Color.Transparent,
